@@ -7,3 +7,5 @@
    - Get API Endpoint
    - Get API Key
    - Deploy Model(s)
+
+Associated [Blogpost on PowerShellAI](https://blog.darrenjrobinson.com/generative-ai-chatgpt-with-powershell/) setup and use.
